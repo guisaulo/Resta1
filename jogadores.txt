@@ -1,0 +1,6 @@
+guisaulo,13422431,Guilherme Saulo Alves,20,0,0
+chuck,12345678,chuck norris,40,0,0
+zack,zack123,zack james,23,0,0
+andre,1234and,Andre Alves ,20,0,0
+teste,12345,android,100,0,0
+otavio,senha,otavio,20,0,0
